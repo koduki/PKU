@@ -87,10 +87,8 @@ public class Main {
 		for (int x : xs) {
 			int a = n / x;
 			n = n % x;
-			if (a > 1)
-				sb.append(a);
-			if (a > 0)
-				sb.append(encodeTable.get(x));
+			if (a > 1) sb.append(a);
+			if (a > 0) sb.append(encodeTable.get(x));
 		}
 		return sb.toString();
 	}
