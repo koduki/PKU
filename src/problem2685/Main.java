@@ -9,7 +9,8 @@ import java.util.Map;
 import java.util.Scanner;
 
 /**
- * Numeral System http://poj.org/problem?id=2685
+ * Numeral System.
+ * http://poj.org/problem?id=2685
  * 
  * @author koduki.
  * 

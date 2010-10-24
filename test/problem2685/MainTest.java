@@ -12,6 +12,11 @@ import org.junit.Test;
 import static org.junit.Assert.*;
 import static org.hamcrest.CoreMatchers.*;
 
+/**
+ * Numeral System.Test.
+ * @author hiro
+ *
+ */
 public class MainTest {
     /**
      * Test target.
